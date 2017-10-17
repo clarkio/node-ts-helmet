@@ -1,4 +1,4 @@
-#node-ts-helmet
+# node-ts-helmet
 A simple Node.js server written in TypeScript and using the helmetjs npm package
 
 ## Quick Start
